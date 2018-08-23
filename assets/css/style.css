@@ -1,0 +1,27 @@
+.jumbotron {
+    background-image: url(../images/seigaiha.png);
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    margin-top: 150px;
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 19px;
+}
+
+header {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
